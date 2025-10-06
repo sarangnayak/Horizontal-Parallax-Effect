@@ -10,7 +10,7 @@ Live Demo: https://sarangnayak.github.io/Horizontal-Parallax-Effect/
 
 ---
 
-> ![Morse Code Generator Screenshot](./preview.png)
+> ![Horizontal-Parallax-Effect](./preview.png)
 ---
 
 ## ✨ What It Does
