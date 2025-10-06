@@ -25,3 +25,11 @@ This project implements a **horizontal parallax scrolling effect**. As you scrol
 ---
 
 ## 📁 Folder Structure
+```
+Horizontal-Parallax-Effect/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+
+```
