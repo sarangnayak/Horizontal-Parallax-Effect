@@ -10,6 +10,9 @@ Live Demo: https://sarangnayak.github.io/Horizontal-Parallax-Effect/
 
 ---
 
+> ![Morse Code Generator Screenshot](./images/preview.png)
+---
+
 ## ✨ What It Does
 
 This project implements a **horizontal parallax scrolling effect**. As you scroll, layered elements move at different speeds horizontally, creating depth and motion. Ideal for hero sections, galleries, or interactive storytelling.
