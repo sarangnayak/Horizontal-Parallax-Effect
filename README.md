@@ -33,3 +33,36 @@ Horizontal-Parallax-Effect/
 └── assets/
 
 ```
+---
+
+## 🚀 How to Use / Run
+
+1. Clone this repo  
+2. Open `index.html` in the browser  
+3. Scroll to see the parallax effect in action  
+
+To adapt it for your own site:  
+- Adjust layer speed in JS  
+- Add/remove elements  
+- Tweak CSS transform origins & overflow properties  
+
+---
+
+## 💡 Tips to Improve
+
+- Use **requestAnimationFrame** for smoother scroll-linked animations  
+- Debounce scroll events to avoid performance issues  
+- Use **will-change, translate3d** and hardware-accelerated CSS  
+- Limit heavy layers or images for mobile performance  
+
+---
+
+## 👨‍💻 Author
+
+Sarang Nayak  
+[GitHub Profile](https://github.com/sarangnayak)  
+[Portfolio](https://sarangnayak.github.io)
+
+---
+
+##### ⭐ Star this if you like smooth parallax interactions!
